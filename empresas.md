@@ -4,15 +4,6 @@ PIMA · 1.º ASIR · UD02 · Sesión 6 · 17/11/2026
 
 **Alias o iniciales:** ECF
 
-> Este archivo se publica en tu repositorio. Escribe solo tu alias o tus iniciales: ni nombre completo, ni correo, ni teléfono.
-
-## Cómo completar este archivo
-
-- Sustituye cada `…` por tu respuesta.
-- En la tabla, escribe dentro de cada casilla y no borres las barras verticales `|`.
-- Toda la información está en los casos: no hace falta buscar en internet.
-- Justifica con un dato del caso, por ejemplo: «pequeña empresa: tiene 12 personas».
-- Guarda con Ctrl+S cada poco.
 
 ## Los casos
 
